@@ -4,7 +4,7 @@ bio:                'Creative Front End Developer'
 description:        "HIRE ME"
 reading_time:       true
 words_per_minute:   200
-logo:               '/assets/img/dogaldklump.jpg'
+logo:               "https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/15698083_10208429513551070_8550989419544278956_n.jpg?oh=878785474758d7a6023ba3e404bb0576&oe=591E35D8"
 background:         "http://images1.westword.com/imager/u/745xauto/7831898/3521.jpg"
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
