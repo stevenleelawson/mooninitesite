@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "VIDEO TIME"
+title:  "The trailer I made for SpaceWolvez"
 date:   2016-03-15
-excerpt: "VID VID"
+excerpt: "SpaceWolvez: The Toilet Paper"
 tag:  [tech]
 
-comments: true
+comments: false
 ---
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/hdqFQjoV4OQ" frameborder="0"> </iframe>
-THIS IS ME IN THE 90S
+I made this trailer for the game I created in Unity. You can play the game here (you lucky duck, you):
+
+<a href="https://stevenleelawson.github.io/Spacewolvesbeta/">SpaceWolvez</a>
 
 <!-- <iframe width="854" height="480" src="//www.youtube.com/embed/hdqFQjoV4OQ" frameborder="0" allowfullscreen></iframe> -->

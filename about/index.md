@@ -1,37 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About the Dev
+tags: [MUSIC, TECH, DEV]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+Born and bred in Denver, Colorado, I am a full stack web developer, and a student of the Galvanize Web Development Immersive program. My core stack is: JavaScript, SQL, Node.js, Git, Angular, Knex.js, TDD, HTML/CSS and the Agile Methodologies.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I am a natural team builder and collaborator from 10 years of organizing bands, booking tours, recording and producing; I am affable and love to tell programming jokes, and work naturally in a team.
 
-## Preview
+I got my Bachelor's degree in Music, with an emphasis on the Recording Arts in 2014 from the University of Colorado at Denver, which trained me in using multiple DAWs (digital audio workstations) and recording software.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+In addition to creating intriguing web apps, I love to play the rhodes piano in a local band, write original songs, compose poetry, and one day write the great american novel.
