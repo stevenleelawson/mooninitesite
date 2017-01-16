@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The trailer I made for SpaceWolvez"
+title:  "SPaceWolves: The Game"
 date:   2016-03-15
-excerpt: "SpaceWolvez: The Toilet Paper"
+excerpt: "SpaceWolves: The Toilet Paper"
 tag:  [tech]
 
 comments: false
