@@ -30,6 +30,11 @@ layout: compress
                         	<p style="font-size:1.5rem;font-weight:300;color:hsl(120, 84%, 20%);">{{ site.bio }}</p>
 
                     </h3>
+                    <form action="/search.html" method="get">
+                      <label for="search-box">Search Steven's Mind</label>
+                      <input type="text" id="search-box" name="query">
+                      <input type="submit" value="search">
+                    </form>
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="title">
@@ -43,9 +48,11 @@ layout: compress
                          Projects
                          </a>
                  </h3>
+
             </div>
         </div>
     </header>
     {% include scripts.html %}
+
 </body>
 </html>
