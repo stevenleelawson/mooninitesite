@@ -1,3 +1,4 @@
+
 if (searchTerm) {
   document.getElementById('search-box').setAttribute("value", searchTerm);
 
