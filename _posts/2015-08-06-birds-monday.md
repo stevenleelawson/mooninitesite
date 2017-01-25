@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "a new poem"
+title: "The Birds of Monday"
 date: 2017-01-16
-excerpt: "This poem was written on a typewriter"
-tags: [POETRY]
-feature: http://www.vintagetypewritershoppe.com/i/CS2011/P7147029.JPG
+excerpt: "A romantic failure, with laughter"
+tags: [NOVELLA]
+feature: http://cdn.playbuzz.com/cdn/538459e9-9d01-43fb-9ec3-5d1d966944a1/e04dd295-3d20-4034-9282-e2edd47c73d2.jpg
 comments: false
 ---
 The Birds of Monday
