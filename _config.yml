@@ -8,7 +8,7 @@ logo:               "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAA
 background:         "https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/15585299_10208296520306322_5060931364646765426_o.jpg?oh=4ca4844d48c98de883d526960f8792c1&oe=58DEF101"
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                
+url:                stevenleelawson.github.io
 
 # Jekyll
 permalink:          /:title/
