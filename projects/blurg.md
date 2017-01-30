@@ -1,7 +1,9 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: About the Dev
+tags: [MUSIC, TECH, DEV]
+date: 2016-03-21
+feature: https://scontent.xx.fbcdn.net/v/t1.0-9/14606303_10207748592488469_427162973019815090_n.jpg?oh=554ef53736054b6628f04a1f44566c47&oe=590D2F5B
 comments: false
 ---
 <!-- start slipsum code -->
