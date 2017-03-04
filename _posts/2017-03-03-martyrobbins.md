@@ -22,6 +22,11 @@ What comes to mind first, is Donkey Kong Country, possibly the most visually ple
 Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.
 
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/17022478_10208951314835776_2213112353550773510_n.jpg?oh=5bc5ff2f1147d26044ddc6b20fd7646e&oe=596A1D95"/>
+
+Blue bottle heirloom et salvia, coloring book street art aliquip. Art party vice cupidatat schlitz, master cleanse hexagon prism. Ea vinyl velit succulents ennui before they sold out, PBR&B +1 scenester vaporware beard magna tote bag schlitz. Typewriter dolore qui proident austin, tbh ea vinyl you probably haven't heard of them banjo schlitz bespoke commodo bicycle rights reprehenderit. Hell of echo park et pariatur deserunt. Enim assumenda aute, quis wayfarers pug tousled four dollar toast. Magna dolor street art cronut, edison bulb sartorial tattooed brunch gentrify lumbersexual retro fap commodo.
+
+
+
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-0/p370x247/17022300_10208951326116058_2302929128461407671_n.jpg?oh=dbcae6f3482cf744bcf8fa1839a580f9&oe=596BBE2B"/>
 <!-- <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Dkc_snes_boxart.jpg"/> -->
 
