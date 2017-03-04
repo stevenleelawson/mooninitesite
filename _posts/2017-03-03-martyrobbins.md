@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Angel Oslon"
-date: 2017-02-03
+date: 2017-03-02
 excerpt: "blurg"
-tags: [MUSIC]
-feature: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDxEhN5001_6JjFrtDNC0RzDJXXp0jZ8HIVY52ZIm7XcnUM2TOFg
+tags: [TECH]
+feature: http://blog.petrockblock.com/wp-content/uploads/2016/01/Pixel-Art.png
 comments: false
 ---
 <!-- This is my new girlfriend. -->
