@@ -5,7 +5,7 @@ date: 2017-03-02
 excerpt: "BUILDING MY FIRST RETRO VIDEO GAME EMULATOR"
 tags: [TECH, VIDEOGAMES]
 feature: https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/17103589_10208951106470567_2888954616386223555_n.jpg?oh=4a850d53b9429ede814d1135076c8d08&oe=593EAA29
-comments: true
+comments: false
 ---
 <img src="http://blog.petrockblock.com/wp-content/uploads/2016/01/Pixel-Art.png
 "/>
