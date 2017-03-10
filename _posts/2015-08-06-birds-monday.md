@@ -7,19 +7,19 @@ tags: [NOVELLA]
 feature: http://cdn.playbuzz.com/cdn/538459e9-9d01-43fb-9ec3-5d1d966944a1/e04dd295-3d20-4034-9282-e2edd47c73d2.jpg
 comments: false
 ---
-The Birds of Monday
+
 
 Monday. The dreaded day. The day of excitement! The white milk sky of winter, and the oppressive phosphorus sun. She was coming back from NYC for the holidays, to visit her mother who was turning 60. I had offered my services as a free cab from the airport, and she had accepted.
 
 “This faithful man will be there in his old, tattered van!” I said.
 
-“Oh, thank you, faithful man! See you tomorrow!” she replied. I re-read that telegram over 160 times, each recitation receiving pleasure; my tiny precious artifact from her. I went to bed early with the nervousness of a child before Christmas, knowing that the sooner I went to bed, the sooner I would awake to Santa’s presents! As an adult, my present from Santa was to spend time with the most wonderfully frustrating person that I had ever known.
+“Oh, thank you, faithful man! See you tomorrow!” she replied. I re-read that telegram over 160 times, each recitation receiving pleasure; my tiny precious artifact from her. I went to bed early with the nervousness of a child before Christmas, knowing that the sooner I went to bed, the sooner I would awake to Santa’s presents! As an adult, my present from Santa was to spend time iridescent mist that obscures the moon.
 
 She had not asked me to be her airport cabbie; I had offered as soon as she mentioned that she had bought a plane ticket back to our native state of Colorado. I wonder now how obvious it was to her that I would drive her wherever and anywhere- I would find a way to drive her to Paris, across the Atlantic, if that’s where she wanted to go. Women often have a way of sensing these things. Like how blind people are only blind in this dimension. Look it up, it’s true.
 
-I had once seen a documentary about the mating habits of the exotic birds of paradise. The males, in addition to showcasing vibrant plumage, would spend days reading a stage (or love nest) on which to display their candidacy as a mate. In much the same way, I cleaned my apartment, and similarly turned my birdy diligence towards readying the chariot that would ferry the object of my affection from the airport. This mostly consisted of ridding my van of empty beer bottles and cigarette packs, but nothing was left to chance! Before the quarter-fed vacuum and spray wash, I made a stop at the Tibetan gift shop and purchased two kinds of incense to perfume my van with; Sandalwood and Indian Temple. Coughing from lighting both in the confined space of my locomotive, I hazarded the big trucks of the industrial part of town and entered the freeway to the airport.
+I had once seen a documentary about the mating habits of the exotic birds of paradise. The males, in addition to showcasing vibrant plumage, would spend days reading a stage (or love-nest) on which to display their candidacy as a mate. In much the same way, I cleaned my apartment, and similarly turned my birdy-diligence towards readying the chariot that would ferry the object of my affection from the airport. This mostly consisted of ridding my van of empty beer bottles and cigarette packs, but nothing was left to chance! Before the quarter-fed vacuum and spray wash, I made a stop at the Tibetan gift shop and purchased two kinds of incense to perfume my van with; Sandalwood and Indian Temple. Coughing from lighting both in the confined space of my locomotive, I hazarded the big trucks of the industrial part of town and entered the freeway to the airport.
 
-I was running late due to my bird of paradise schtick, and in a hurried zooming between cars on the highway, my mobile device on the passenger seat lit up. I knew it had to be her, and with the wind roaring in my ear and the incense burning, I answered.
+I was running late due to my bird-of-paradise-schtick, and in a hurried zooming between cars on the highway, my mobile device on the passenger seat lit up. I knew it had to be her, and with the wind roaring in my ear and the incense burning, I answered.
 
 “Hello!” I said.
 
@@ -31,19 +31,21 @@ I was running late due to my bird of paradise schtick, and in a hurried zooming 
 
 “Nevermind. I’ll see you very soon!” We exchanged the pertinent navigational information, and I speeded with urgency towards the terminal.
 
+*   *   *   *   *
+
 Pulling into the concrete cave, I saw her there. In tight jeans and boots, she was even prettier than my imagination had prepared me for. She recognized her sloppy knight, and I waved to her like a dork. I unlocked the passenger door, and she fumbled her two over-stuffed backpacks into the vehicle. Her auburn hair spilled playfully onto her shoulders. Her bright amber eyes regarded me. Her smile lit a fire in the lighthouse of my heart, and she thanked me for picking her up.
 
 Now, you have to understand, as I envisioned this very scenario the night before, I foresaw a much smoother, non-existent version of me to respond in a way that would make even James Bond jealous of my mastery of seduction. She would say:
 
 “How can I ever thank you?!” and I would reply, with ultimate smoothness:
 
-“I think a kiss from you might do the trick.” Of course, she did not say that, and my reaction was one of typical nice-guy blandness. We exchanged pleasantries, and exited the concrete cave of the arrivals. The James Bond inside my head laughed his ass off.
+“I think a kiss from you might do the trick.” Of course, she did not say that, and my reaction was one of typical nice-guy blandness. We exchanged pleasantries, and exited the concrete cave of the arriving flights. The James Bond inside my head laughed his ass off.
 
 *                     *                     *                     *                     *
 
 “I did not sleep last night,” she said. “It’s so BRIGHT here, especially painful when hungover.
 
-“I know- it’s just the worst. Makes me long so badly for the dim, gloomy skies of the northwest.” I drove on, trying to look as desirable as I could with my two sets of glasses; sun-over-visioncorrection. I said helpfully, “ I think there is an extra pair of sunglasses on the back seat, if you want to use them.”
+“I know- it’s just the worst. Makes me long so badly for the dim, gloomy skies of the northwest.” I drove on, trying to look as desirable as I could with my two sets of glasses; sun-over-vision-correction. I said helpfully, “ I think there is an extra pair of sunglasses on the back seat, if you want to use them.”
 
 “Oh! That’s great! Thank you!” She put on the sunglasses that I had gotten for free from somewhere, and continued. “So, all I want is enough money for a bungalow here, and a house in Paris, so I think I have my million-dollar idea: People like reality shows, right?”
 
@@ -99,7 +101,7 @@ Camilya spoke something softly to her mother that was unintelligible to me; most
 
 “Do you have any other skills?” her mother inquired.
 
-“Oh, god no.” I said, still impressed with my frankness. Camilya jumped in to my apparent need of defense:
+“Oh, god no.” I said, still impressed with my frankness. Camilya jumped in, to my apparent need of aid:
 
 “He can paint! He told me on the way over that he has been earning some money painting houses.” It occurred to me later that I was in an interview and didn’t even know about it. It was kinda like with a job where the manager asks, “What is your greatest weakness?” Most people would answer by saying something like, “Okay. Here goes: my greatest fault is that I’m a perfectionist.”
 
