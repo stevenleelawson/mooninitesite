@@ -36,8 +36,9 @@ That's all I really needed from MicroCenter, but the complete recipe includes th
 
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/17022478_10208951314835776_2213112353550773510_n.jpg?oh=5bc5ff2f1147d26044ddc6b20fd7646e&oe=596A1D95"/>
 
-Blue bottle heirloom et salvia, coloring book street art aliquip. Art party vice cupidatat schlitz, master cleanse hexagon prism. Ea vinyl velit succulents ennui before they sold out, PBR&B +1 scenester vaporware beard magna tote bag schlitz. Typewriter dolore qui proident austin, tbh ea vinyl you probably haven't heard of them banjo schlitz bespoke commodo bicycle rights reprehenderit. Hell of echo park et pariatur deserunt. Enim assumenda aute, quis wayfarers pug tousled four dollar toast. Magna dolor street art cronut, edison bulb sartorial tattooed brunch gentrify lumbersexual retro fap commodo.
+Once all of the "ingredients" are purchased, just head your ass over to the retropie website, download the "retropie image," and burn it onto your micro-sd card. BAM!
 
+Then just get the games. Emuparadise is where it's at. Download the ROM, put it on a (large) usb stick, and transfer it over. The fun is just beginning.
 
 
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-0/p370x247/17022300_10208951326116058_2302929128461407671_n.jpg?oh=dbcae6f3482cf744bcf8fa1839a580f9&oe=596BBE2B"/>
