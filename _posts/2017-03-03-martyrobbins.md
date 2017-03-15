@@ -15,11 +15,24 @@ I was quite the gamer as a boy; I had a miserable home situation at the time, an
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c1/Dkc_snes_boxart.jpg"/>
 
-What comes to mind first, is Donkey Kong Country, possibly the most visually pleasing video game made for the Super Nintendo Entertainment System.
+What comes to mind first, is Donkey Kong Country, possibly the most visually pleasing video game made for the Super Nintendo Entertainment System. As a boy, I even placed second in a competition in a special version of the game at the (now dead-as-disco) local Blockbuster. I was really motivated to get my Donkey and Diddy Kong on, (and Street Fighter II, of course) so I went to a video that my dev-hipster-friend Aram sent me on twitter on how to build a retro video game emulator using retropie.
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/16938788_10208951281674947_2259758776705550138_n.jpg?oh=2613f7172232f58af43cd84e2f7e9b56&oe=593C653F"/>
 
+The instructions CLAIMED I could buy everything I needed for $35, but it ended up being more like $60. Because I am a man of instant gratification, I didn't want to wait the few days that would be required if I had ordered it online. This meant my first visit to MicroCenter, out in the boons of the Denver Tech Center.
 
-Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.
+MicroCenter is like a tiny BestBuy that is aimed at DIY nerdery. Outside of the internet, this is the only brick-and-mortar store one can travel to to buy raspberry pi's and arduinos. For the uninitiated ("But we are initiated, aren't we Bruce?") a raspberry pi is a very small computer that can be programmed in Linux for a variety of tasks, known intriguingly as the Internet of Things or IOT. Home automation, Nerf Turrents, simple robotics: the pi is very interesting to me because it turns untagible work (code) into tangible physicality! My tangible interests in this case being, to be able to play every game I had ever owned or rented from Blockbuster.
+
+So, here was my ingredients list, for how to bake a raspberry pi retro game emulator:
+
+  1. Raspberry Pi
+  2. Power source for pi
+  3. A case to protect the pi
+
+That's all I really needed from MicroCenter, but the complete recipe includes the following:
+
+  4. 1-2 ps3 controllers (plan on two if you want to rock Mortal Kombat or Street Fighter II or Mario Kart) (also, don't be a cheap-ass like I was and go off-brand; this presented itself with numerous configuration problems. Go ps3 or Go Home!)
+  5. HDMI cable
+
 
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/17022478_10208951314835776_2213112353550773510_n.jpg?oh=5bc5ff2f1147d26044ddc6b20fd7646e&oe=596A1D95"/>
 
