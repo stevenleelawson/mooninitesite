@@ -1,11 +1,11 @@
 # Site
 title:              STEVEN LEE LAWSON
-bio:                'Creative Front End Developer'
+bio:                'UX & GRAPHIC DESIGN'
 description:        "HIRE ME"
 reading_time:       true
 words_per_minute:   200
-logo:               "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAekAAAAJDdiMjZiZWI5LTNkMWQtNDk4NC04YzIyLWQ1M2M0N2JkMjNlYQ.jpg"
-background:         "https://scontent-ord1-1.xx.fbcdn.net/v/t31.0-8/15585299_10208296520306322_5060931364646765426_o.jpg?oh=4ca4844d48c98de883d526960f8792c1&oe=58DEF101"
+logo:               "../assets/steven copy (1).jpg"
+background:         "https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/20294067_10211706061859374_4364492214738135222_n.jpg?oh=570c65d802d1e2afd2b9e4acc26cce9b&oe=5A437B35"
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://stevenleelawson.github.io/mooninitesite/
