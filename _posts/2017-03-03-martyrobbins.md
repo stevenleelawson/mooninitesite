@@ -4,7 +4,7 @@ title: "My initial venture into the world of IOT"
 date: 2017-03-02
 excerpt: "BUILDING MY FIRST RETRO VIDEO GAME EMULATOR"
 tags: [TECH, VIDEOGAMES]
-feature: https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/17103589_10208951106470567_2888954616386223555_n.jpg?oh=4a850d53b9429ede814d1135076c8d08&oe=593EAA29
+feature: ../assets/raspPI.JPG
 comments: false
 ---
 <img src="http://blog.petrockblock.com/wp-content/uploads/2016/01/Pixel-Art.png
@@ -38,7 +38,7 @@ That's all I really needed from MicroCenter, but the complete recipe includes th
 
 Once all of the "ingredients" are purchased, just head your ass over to the retropie website, download the "retropie image," and burn it onto your micro-sd card. BAM!
 
-Then just get the games. Emuparadise is where it's at. Download the ROM, put it on a (large) usb stick, and transfer it over. The fun is just beginning.
+Then just get the games. Emuparadise is where it's at. Download the ROM, put it on a (large) usb stick, and transfer it over. The fun is just beginning.j
 
 
 <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-0/p370x247/17022300_10208951326116058_2302929128461407671_n.jpg?oh=dbcae6f3482cf744bcf8fa1839a580f9&oe=596BBE2B"/>
